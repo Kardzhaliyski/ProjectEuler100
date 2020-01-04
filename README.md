@@ -1,4 +1,4 @@
-# ProjectEuler100 Challenge 
+# ProjectEuler100 Challenge with Java
 
 ## Working on problem
 ### x. xxxxxxx
