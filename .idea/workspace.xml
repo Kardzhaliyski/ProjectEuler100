@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="625bd38d-ba47-4920-8b08-e908d025b543" name="Default Changelist" comment="" />
+    <list default="true" id="625bd38d-ba47-4920-8b08-e908d025b543" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Problem3_LargestPrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem3_LargestPrimeFactor.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestPrimeFactor">
+  <component name="RunManager" selected="Application.Problem3_LargestPrimeFactor">
     <configuration name="EvenFibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.EvenFibonacciNumbers" />
       <module name="ProjectEuler100" />
@@ -86,14 +89,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem3_LargestPrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem3_LargestPrimeFactor" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Problem1_MultiplesOf3And5" />
       <item itemvalue="Application.EvenFibonacciNumbers" />
       <item itemvalue="Application.LargestPrimeFactor" />
+      <item itemvalue="Application.Problem3_LargestPrimeFactor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem3_LargestPrimeFactor" />
         <item itemvalue="Application.LargestPrimeFactor" />
         <item itemvalue="Application.EvenFibonacciNumbers" />
         <item itemvalue="Application.Problem1_MultiplesOf3And5" />
@@ -112,6 +130,7 @@
       <updated>1578158465943</updated>
       <workItem from="1578158467823" duration="8491000" />
       <workItem from="1578171110384" duration="1118000" />
+      <workItem from="1578172250240" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="Solved">
       <created>1578171242191</created>
@@ -134,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578172205079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed File Names">
+      <created>1578172342641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578172342641</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +171,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -153,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
+    <MESSAGE value="Fixed File Names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed File Names" />
   </component>
 </project>
