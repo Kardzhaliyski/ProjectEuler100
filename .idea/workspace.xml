@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625bd38d-ba47-4920-8b08-e908d025b543" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem4_LargestPalindromeProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem5_SmallestMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem6_SumSquareDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem7_nthPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem8_LargestProductInASeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Problem3_LargestPrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem3_LargestPrimeFactor.java" afterDir="false" />
     </list>
@@ -39,56 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem3_LargestPrimeFactor">
-    <configuration name="EvenFibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.EvenFibonacciNumbers" />
-      <module name="ProjectEuler100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LargestPrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.LargestPrimeFactor" />
-      <module name="ProjectEuler100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ProjectEuler100" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem1_MultiplesOf3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem1_MultiplesOf3And5" />
-      <module name="ProjectEuler100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem8_LargestProductInASeries">
     <configuration name="Problem3_LargestPrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Problem3_LargestPrimeFactor" />
       <module name="ProjectEuler100" />
@@ -102,19 +59,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem5_SmallestMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem5_SmallestMultiple" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem6_SumSquareDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem6_SumSquareDifference" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem7_nthPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem7_nthPrime" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem8_LargestProductInASeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem8_LargestProductInASeries" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Problem1_MultiplesOf3And5" />
-      <item itemvalue="Application.EvenFibonacciNumbers" />
-      <item itemvalue="Application.LargestPrimeFactor" />
       <item itemvalue="Application.Problem3_LargestPrimeFactor" />
+      <item itemvalue="Application.Problem5_SmallestMultiple" />
+      <item itemvalue="Application.Problem6_SumSquareDifference" />
+      <item itemvalue="Application.Problem7_nthPrime" />
+      <item itemvalue="Application.Problem8_LargestProductInASeries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem8_LargestProductInASeries" />
+        <item itemvalue="Application.Problem7_nthPrime" />
         <item itemvalue="Application.Problem3_LargestPrimeFactor" />
-        <item itemvalue="Application.LargestPrimeFactor" />
-        <item itemvalue="Application.EvenFibonacciNumbers" />
-        <item itemvalue="Application.Problem1_MultiplesOf3And5" />
+        <item itemvalue="Application.Problem6_SumSquareDifference" />
+        <item itemvalue="Application.Problem5_SmallestMultiple" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +140,9 @@
       <updated>1578158465943</updated>
       <workItem from="1578158467823" duration="8491000" />
       <workItem from="1578171110384" duration="1118000" />
-      <workItem from="1578172250240" duration="554000" />
+      <workItem from="1578172250240" duration="1522000" />
+      <workItem from="1578218592353" duration="113000" />
+      <workItem from="1578604501849" duration="3578000" />
     </task>
     <task id="LOCAL-00001" summary="Solved">
       <created>1578171242191</created>
@@ -160,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578172342641</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed Some Variable Names">
+      <created>1578172897459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578172897459</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +201,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solved" />
     <MESSAGE value="Fixed File Names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed File Names" />
+    <MESSAGE value="Fixed Some Variable Names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Some Variable Names" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Problem3_LargestPrimeFactor.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Problem7_nthPrime.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

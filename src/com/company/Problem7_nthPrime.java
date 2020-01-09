@@ -1,13 +1,15 @@
 package com.company;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 
-public class Problem3_LargestPrimeFactor {
+public class Problem7_nthPrime {
     public static void main(String[] args) {
         List<Integer> primes = new ArrayList<>();
-        var givenNum = 600851475143.0;
-        var maxNum = (int) Math.sqrt(givenNum);
+        var maxNum = 120000;
+
+        primes.add(2);
         for (int i = 3; i <= maxNum; i += 2) {
             primes.add(i);
         }
@@ -23,17 +25,12 @@ public class Problem3_LargestPrimeFactor {
                 currNum = primes.get(currPosition);
             }
 
-            if(currNum > 5000) { //Added to reduce the time running
+            if (currNum > 5000) { //Added to reduce the time running
                 break;
             }
         }
 
-        for (int i = primes.size() - 1; i >= 0; i--) {
-            if (givenNum % primes.get(i) == 0) {
-                System.out.println(primes.get(i));
-                break;
-            }
-        }
+        System.out.println(primes.get(10000));
     }
 
     private static List<Integer> removeNotPrimeNumDividedBy(List<Integer> list, int num) {
