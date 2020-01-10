@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625bd38d-ba47-4920-8b08-e908d025b543" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem10_SummationOfPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem11_LargestProductInAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem12_HighlyDivisibleTriangularNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem9_SpecialPythagoreanTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,9 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem8_LargestProductInASeries">
-    <configuration name="Problem3_LargestPrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem3_LargestPrimeFactor" />
+  <component name="RunManager" selected="Application.Problem12_HighlyDivisibleTriangularNumber">
+    <configuration name="Problem10_SummationOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem10_SummationOfPrimes" />
       <module name="ProjectEuler100" />
       <extension name="coverage">
         <pattern>
@@ -52,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem5_SmallestMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem5_SmallestMultiple" />
+    <configuration name="Problem11_LargestProductInAGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem11_LargestProductInAGrid" />
       <module name="ProjectEuler100" />
       <extension name="coverage">
         <pattern>
@@ -65,21 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem6_SumSquareDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem6_SumSquareDifference" />
-      <module name="ProjectEuler100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem7_nthPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem7_nthPrime" />
+    <configuration name="Problem12_HighlyDivisibleTriangularNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem12_HighlyDivisibleTriangularNumber" />
       <module name="ProjectEuler100" />
       <extension name="coverage">
         <pattern>
@@ -104,20 +96,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem9_SpecialPythagoreanTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem9_SpecialPythagoreanTriplet" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Problem3_LargestPrimeFactor" />
-      <item itemvalue="Application.Problem5_SmallestMultiple" />
-      <item itemvalue="Application.Problem6_SumSquareDifference" />
-      <item itemvalue="Application.Problem7_nthPrime" />
       <item itemvalue="Application.Problem8_LargestProductInASeries" />
+      <item itemvalue="Application.Problem9_SpecialPythagoreanTriplet" />
+      <item itemvalue="Application.Problem10_SummationOfPrimes" />
+      <item itemvalue="Application.Problem11_LargestProductInAGrid" />
+      <item itemvalue="Application.Problem12_HighlyDivisibleTriangularNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem12_HighlyDivisibleTriangularNumber" />
+        <item itemvalue="Application.Problem11_LargestProductInAGrid" />
+        <item itemvalue="Application.Problem10_SummationOfPrimes" />
+        <item itemvalue="Application.Problem9_SpecialPythagoreanTriplet" />
         <item itemvalue="Application.Problem8_LargestProductInASeries" />
-        <item itemvalue="Application.Problem7_nthPrime" />
-        <item itemvalue="Application.Problem3_LargestPrimeFactor" />
-        <item itemvalue="Application.Problem6_SumSquareDifference" />
-        <item itemvalue="Application.Problem5_SmallestMultiple" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +140,8 @@
       <workItem from="1578171110384" duration="1118000" />
       <workItem from="1578172250240" duration="1522000" />
       <workItem from="1578218592353" duration="113000" />
-      <workItem from="1578604501849" duration="3888000" />
+      <workItem from="1578604501849" duration="3967000" />
+      <workItem from="1578684347451" duration="7117000" />
     </task>
     <task id="LOCAL-00001" summary="Solved">
       <created>1578171242191</created>
@@ -179,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578608103396</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update Readme">
+      <created>1578608408630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578608408630</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +216,8 @@
     <MESSAGE value="Fixed File Names" />
     <MESSAGE value="Fixed Some Variable Names" />
     <MESSAGE value="Problem Solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Solving" />
+    <MESSAGE value="Update Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
