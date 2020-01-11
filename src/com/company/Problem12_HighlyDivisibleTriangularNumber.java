@@ -32,4 +32,6 @@ public class Problem12_HighlyDivisibleTriangularNumber {
 
         return count;
     }
+
+
 }
