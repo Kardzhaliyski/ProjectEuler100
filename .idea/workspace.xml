@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625bd38d-ba47-4920-8b08-e908d025b543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Problem13_LargeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem14_LongestCollatzSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Problem15_LatticePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problem12_HighlyDivisibleTriangularNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problem12_HighlyDivisibleTriangularNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem13_LargeSum">
-    <configuration name="Problem10_SummationOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem10_SummationOfPrimes" />
-      <module name="ProjectEuler100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem15_LatticePaths">
     <configuration name="Problem11_LargestProductInAGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Problem11_LargestProductInAGrid" />
       <module name="ProjectEuler100" />
@@ -94,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem9_SpecialPythagoreanTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Problem9_SpecialPythagoreanTriplet" />
+    <configuration name="Problem14_LongestCollatzSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem14_LongestCollatzSequence" />
+      <module name="ProjectEuler100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem15_LatticePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Problem15_LatticePaths" />
       <module name="ProjectEuler100" />
       <extension name="coverage">
         <pattern>
@@ -108,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem9_SpecialPythagoreanTriplet" />
-      <item itemvalue="Application.Problem10_SummationOfPrimes" />
       <item itemvalue="Application.Problem11_LargestProductInAGrid" />
       <item itemvalue="Application.Problem12_HighlyDivisibleTriangularNumber" />
       <item itemvalue="Application.Problem13_LargeSum" />
+      <item itemvalue="Application.Problem14_LongestCollatzSequence" />
+      <item itemvalue="Application.Problem15_LatticePaths" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem15_LatticePaths" />
+        <item itemvalue="Application.Problem14_LongestCollatzSequence" />
         <item itemvalue="Application.Problem13_LargeSum" />
         <item itemvalue="Application.Problem12_HighlyDivisibleTriangularNumber" />
         <item itemvalue="Application.Problem11_LargestProductInAGrid" />
-        <item itemvalue="Application.Problem10_SummationOfPrimes" />
-        <item itemvalue="Application.Problem9_SpecialPythagoreanTriplet" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1578172250240" duration="1522000" />
       <workItem from="1578218592353" duration="113000" />
       <workItem from="1578604501849" duration="3967000" />
-      <workItem from="1578684347451" duration="10187000" />
+      <workItem from="1578684347451" duration="23476000" />
     </task>
     <task id="LOCAL-00001" summary="Solved">
       <created>1578171242191</created>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578693054102</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Problem Solving">
+      <created>1578776763954</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578776763954</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
